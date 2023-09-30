@@ -11,3 +11,11 @@ height: 100vh;
 body, #root{
 height: 100%;
 }
+.ReactModal__Content{
+  width: 300px;
+  height: fit-content;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
