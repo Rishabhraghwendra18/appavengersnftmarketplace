@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400;500;600&family=Young+Serif&display=swap');
+
 *{
   padding:0;
   margin: 0;
+  font-family: 'AR One Sans', sans-serif;
 }
 html{
 height: 100vh;
